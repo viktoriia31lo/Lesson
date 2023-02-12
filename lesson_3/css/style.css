@@ -1,0 +1,36 @@
+@import url("reset.css");
+
+.heder {
+   font-size: xx-large;
+   line-height: normal;
+   color: rgb(48, 22, 4);
+}
+
+.top {
+   color: rgb(73, 43, 21);
+}
+
+.content {
+   background-color: blanchedalmond;
+
+}
+
+.link {
+   color: red;
+}
+
+.content-origin {
+   color: darkolivegreen;
+}
+
+.content-child {
+   color: darkslategray;
+}
+
+.content-education {
+   color: dimgray;
+}
+
+.content-link {
+   color: rgb(27, 4, 49);
+}
