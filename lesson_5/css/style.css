@@ -1,0 +1,86 @@
+@import url("reset.css");
+
+.content {
+   min-width: 800px;
+}
+
+.content-top {
+   padding-left: 150px;
+   ;
+   max-width: 100%;
+   font-family: 'Poppins';
+   font-weight: 700;
+   font-size: 25px;
+   line-height: 40px;
+   color: #212529;
+}
+
+.content-text {
+   padding: 20px 150px;
+
+   font-family: 'Poppins';
+   font-style: normal;
+   font-weight: 300;
+   font-size: 14px;
+   line-height: 25px;
+   color: #6C757D;
+}
+
+.content-text p {
+   padding: 0px 0px 20px 0px;
+}
+
+.content-image {
+   margin: 0px 40px 40px 40px;
+
+}
+
+.content-title-midle {
+   padding-left: 150px;
+   max-width: 100%;
+   font-family: 'Poppins';
+   font-weight: 700;
+   font-size: 25px;
+   line-height: 40px;
+   color: #212529;
+}
+
+.content-main {
+   padding: 20px 150px;
+
+   font-family: 'Poppins';
+   font-style: normal;
+   font-weight: 300;
+   font-size: 14px;
+   line-height: 25px;
+   color: #6C757D;
+}
+
+.content-main p {
+   padding: 0px 0px 20px 0px;
+
+}
+
+.content-foto {
+
+   padding: 0px 0px 0px 40px;
+
+}
+
+.content-foto2 {
+
+   padding: 0px 40px;
+
+}
+
+
+.content-botton {
+   padding: 20px 150px;
+
+   font-family: 'Poppins';
+   font-style: normal;
+   font-weight: 300;
+   font-size: 14px;
+   line-height: 25px;
+   color: #6C757D;
+}
