@@ -1,0 +1,55 @@
+@import url("reset.css");
+
+
+
+
+body {
+   font-family: "Popins", sans-serif;
+   color: #6C757D;
+   font-size: 14px;
+   font-weight: 300;
+}
+
+[class*="_conteiner"] {
+   max-width: 1270px;
+   margin: 0 auto;
+   padding-left: 15px;
+   padding-right: 15px;
+}
+
+.article {}
+
+.article_images {
+   font-size: 0;
+   padding-bottom: 80px;
+
+}
+
+.article_image1 {
+   margin-right: 30px;
+
+}
+
+.article_image2 {}
+
+.article_text-block {
+   max-width: 814px;
+   margin: 0 auto 80px;
+   line-height: 1.8;
+}
+
+
+.article-title {
+
+   max-width: 814px;
+   margin: 50px auto 40px;
+   font-size: 25px;
+   font-weight: 700;
+   line-height: 1.8;
+   color: #212529;
+}
+
+
+.article_text-block p {
+   padding-bottom: 30px;
+}
